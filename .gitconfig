@@ -1,3 +1,5 @@
 [user]
 	email = 148581386+rwxce@users.noreply.github.com
 	name = rwxce
+[alias]
+	tree = log --graph --decorate --all --oneline
