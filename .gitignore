@@ -1,0 +1,9 @@
+# Location: ~/.gitignore
+
+# Ignore everything
+*
+
+# Except the following files
+!.gitconfig
+!.gitignore
+!README.md
